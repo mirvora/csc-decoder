@@ -1,6 +1,6 @@
 id=csc-decoder
 name=CSC Decoder
-version=V3.0
-versionCode=30
+version=V3.1
+versionCode=31
 author=afaneh92, mirvora
 description=OMC XML Decoder for Samsung Devices.
